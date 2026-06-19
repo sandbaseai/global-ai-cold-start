@@ -13,6 +13,7 @@ This repository documents the operating work behind the product: SEO, blog infra
 If you are new here, start with:
 
 - [Week 1 recap — Building the trust foundation before distribution](week01-foundation-recap.md)
+- [Week 2 plan — Distribution and daily operations](week02-distribution-plan.md)
 - [Day 1 — Before content, make sure Google can see the site](days/day01-seo-audit.md)
 - [Image prompts for social cards](assets/image-prompts/README.md)
 
@@ -309,6 +310,13 @@ Success criteria:
 ### Week 2 — Distribution and Daily Operations
 
 - [Day 8 — Directory and community distribution](days/day08-directory-and-community-distribution.md)
+- [Day 9 — Developer directory setup](days/day09-developer-directory-setup.md)
+- [Day 10 — GitHub trust asset improvement](days/day10-github-trust-asset-improvement.md)
+- [Day 11 — Off-site technical article](days/day11-offsite-technical-article.md)
+- [Day 12 — Community participation without link spam](days/day12-community-participation.md)
+- [Day 13 — Daily social operation loop](days/day13-daily-social-operation.md)
+- [Day 14 — Week two review](days/day14-week-two-review.md)
+- [Week 2 plan — Distribution and daily operations](week02-distribution-plan.md)
 
 ## Public Assets Created So Far
 
