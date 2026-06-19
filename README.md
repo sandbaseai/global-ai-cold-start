@@ -131,7 +131,7 @@ Sensitive account details, private emails, tokens, billing data, and private con
 ### Week 1 — Foundation
 
 - [Day 1 — SEO audit and making the site crawlable](days/day01-seo-audit.md)
-- Day 2 — Fix verification and Search Console checks (coming soon)
+- [Day 2 — Verification is a growth step, not a cleanup step](days/day02-seo-fix-verification.md)
 - Day 3 — Core page audit (coming soon)
 - Day 4 — Core page build (coming soon)
 - Day 5 — First content: What is Agent Infrastructure? (coming soon)
