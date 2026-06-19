@@ -6,6 +6,37 @@ Each daily log should read like an operating journal: enough context for a reade
 
 The reader should be able to picture the day: what the founder was trying to do, how Codex helped, where the browser was used, which decisions were made, which actions required human confirmation, and what changed publicly by the end of the session.
 
+## Core Point of View
+
+Every article should reinforce the same operating belief:
+
+```text
+Product first.
+Foundation before scale.
+Small actions compound.
+Growth must be designed around the product.
+```
+
+Do not write the series as if growth is a separate marketing layer.
+
+For SandBase, the product is agent infrastructure for developers. That means the growth work should also be technical, trustworthy, and useful to developers:
+
+- SEO should clarify what the product is.
+- Blog content should answer real agent infrastructure questions.
+- GitHub assets should be useful beyond promotion.
+- Discord should collect real questions and feedback.
+- LinkedIn should create B2B trust.
+- X should show steady building, not hype.
+- Directory submissions should point to real assets, not empty pages.
+
+The tone should make the reader feel that growth is being built patiently from the product outward.
+
+This is the core message:
+
+```text
+Build the product. Build the trust layer around the product. Repeat long enough for the signals to compound.
+```
+
 ## Daily Log Structure
 
 Each day should include:

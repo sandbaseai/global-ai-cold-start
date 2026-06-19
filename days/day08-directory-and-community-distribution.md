@@ -80,6 +80,22 @@ That order matters.
 
 Directories and communities are not a substitute for trust assets. They amplify what already exists.
 
+## Product-Led Distribution
+
+The distribution plan should be shaped by the product.
+
+SandBase is agent infrastructure, so the strongest distribution assets are not generic launch announcements. They are technical artifacts that help developers understand the category:
+
+- blog posts about agent runtime and sandboxing
+- GitHub resources for native agent platforms
+- docs and quickstarts that show how builders can start
+- community discussions about real agent production problems
+- landing pages that explain infrastructure concepts clearly
+
+This is why Week 2 is not about submitting everywhere.
+
+It is about finding places where the product's technical value can be understood.
+
 ## Initial Targets
 
 - Dev.to

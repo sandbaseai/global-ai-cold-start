@@ -68,6 +68,29 @@ Everything in this project is judged against that positioning.
 
 If an action does not help developers, Google, or potential customers understand SandBase as a serious agent infrastructure platform, we do not prioritize it.
 
+## Growth Philosophy
+
+The core logic of this project is simple:
+
+```text
+Product first.
+Foundation before scale.
+Small daily actions compound.
+Growth should come from the product, not sit on top of it.
+```
+
+For SandBase, growth cannot be copied from a generic AI tools playbook. The product is developer infrastructure, so the growth system also has to look like developer infrastructure:
+
+- clear technical positioning
+- crawlable and trustworthy public surfaces
+- useful docs, blogs, and GitHub assets
+- community channels where real questions can appear
+- distribution that points to something technically useful
+
+The goal is not to create a burst of attention.
+
+The goal is to make the product easier to understand, easier to trust, easier to discover, and easier to return to. If we keep improving those signals day after day, quantity becomes quality over time.
+
 ## How Codex Is Used
 
 Codex is used as an operating partner across the project, not just as a code generator.

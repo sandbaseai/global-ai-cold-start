@@ -72,6 +72,22 @@
 
 目录和社区不是可信度本身，它们只是放大已有的可信资产。
 
+## 围绕产品做分发
+
+分发方案要从产品自身长出来。
+
+SandBase 是 agent infrastructure，所以最强的分发资产不是普通 launch 文案，而是能帮助开发者理解这个品类的技术资产：
+
+- 关于 agent runtime 和 sandboxing 的 Blog
+- 面向 native agent platforms 的 GitHub resource
+- 能让 builder 开始使用的 Docs 和 Quickstart
+- 围绕真实 agent production 问题的社区讨论
+- 把 infrastructure 概念讲清楚的 landing page
+
+所以第 2 周不是到处提交。
+
+而是找到那些真正能理解产品技术价值的地方。
+
 ## 初始目标
 
 - Dev.to
