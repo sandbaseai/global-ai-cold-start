@@ -88,6 +88,14 @@ CARDS = [
         "Style: abstract network diagram, no fake URLs, no domains, no handles, no made-up taglines, no real platform logos, off-white background, black text, teal connector lines, large readable typography. "
         "Only render the exact requested text and the six labels: Website, Blog clusters, GitHub repo, Discord feedback, LinkedIn, X.",
     ),
+    (
+        "day08-distribution",
+        "Create a polished 1600x900 social media infographic. "
+        "Text: 'Day 8: Distribution After Trust' and 'Fewer, better placements beat link dumping.' "
+        "Show a central SandBase trust asset connected to Dev.to, Directories, GitHub, Communities, LinkedIn, X. "
+        "Style: clean distribution map, no real platform logos, no fake URLs, no handles, no made-up metrics, off-white background, black text, teal connector lines, large readable typography. "
+        "Only render the exact requested text and the six labels: Dev.to, Directories, GitHub, Communities, LinkedIn, X.",
+    ),
 ]
 
 

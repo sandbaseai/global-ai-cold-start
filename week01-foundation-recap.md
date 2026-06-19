@@ -4,13 +4,13 @@ Date: 2026-06-19
 
 ![Week 1 trust foundation](assets/generated-images/week01-foundation.png)
 
-## The Simple Idea
+## The Short Version
 
 Before asking people to visit SandBase, we needed SandBase to look real when they arrived.
 
 So Week 1 was not about growth hacks.
 
-It was about the basic trust foundation:
+It was about the trust foundation every early technical product needs:
 
 - Can Google crawl the site?
 - Does the website explain the product?
@@ -20,6 +20,8 @@ It was about the basic trust foundation:
 - Is there a GitHub presence?
 - Is there a daily build signal?
 - Are all channels saying the same thing?
+
+If the answer is no, distribution is premature.
 
 ## Visual Map
 
@@ -52,6 +54,20 @@ flowchart TD
 | Day 5 | LinkedIn | Created the B2B company trust surface |
 | Day 6 | Blog | Documented the technical content engine |
 | Day 7 | GitHub + clusters | Created a developer trust asset and topic cluster map |
+
+The pattern was deliberate:
+
+```text
+Fix crawlability
+  ↓
+Verify indexing foundation
+  ↓
+Create public account surfaces
+  ↓
+Create community and content infrastructure
+  ↓
+Connect everything into one trust system
+```
 
 ## The Positioning Thread
 
@@ -94,6 +110,12 @@ The next work:
 - developer community participation
 - issue and question logging
 - turning repeated questions into content ideas
+
+The rule for Week 2:
+
+```text
+Do not submit SandBase everywhere. Submit where the asset is useful and the audience is real.
+```
 
 ## Share Copy
 

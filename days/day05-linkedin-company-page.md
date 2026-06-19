@@ -1,4 +1,4 @@
-# Day 5 — Creating the LinkedIn Company Page Without Exposing the Wrong Account
+# Day 5 — Creating the LinkedIn Company Page as a B2B Trust Surface
 
 Date: 2026-06-19
 
@@ -18,13 +18,13 @@ When a potential customer, investor, partner, or candidate searches SandBase, a 
 
 Is this a serious company or just a website?
 
-For SandBase, LinkedIn also had a privacy constraint. The founder wanted to build a company presence without visibly tying a separate personal account to the brand.
+For SandBase, LinkedIn also had an account boundary to respect. The company needed a public presence, while personal administrator accounts should remain private unless intentionally disclosed.
 
 That made the setup more than a form-fill task.
 
 ## Goal
 
-Create a public LinkedIn company page for SandBaseAI, complete the page details, publish a first company post, and make sure ordinary visitors see the company as the author rather than a private personal account.
+Create a public LinkedIn company page for SandBaseAI, complete the page details, publish a first company post, and make sure ordinary visitors see a clean company identity rather than internal account mechanics.
 
 ## Beginner View
 
@@ -36,7 +36,7 @@ For a B2B infrastructure company, it answers a basic trust question:
 Is this a real company with a public identity?
 ```
 
-That is why the company page, author visibility, and admin privacy all mattered.
+That is why the company page, author visibility, and administrator boundaries all mattered.
 
 ## Visual Map
 
@@ -97,15 +97,15 @@ The goal is simple: help agents move from demos to reliable systems that can run
 More soon.
 ```
 
-The post was published as the company page, not as a personal profile.
+The post was published as the company page.
 
-That detail matters. The public surface should say "SandBaseAI," while LinkedIn's internal admin system can still know which account performed the action.
+That detail matters. The public surface should say "SandBaseAI," while LinkedIn's internal admin system can still manage permissions behind the scenes.
 
-## Privacy and Admin Decision
+## Privacy and Admin Boundaries
 
 There was an important admin question:
 
-Should a separate operating LinkedIn account be added as page admin?
+Should a separate operating LinkedIn account be added as a page admin?
 
 The operating account followed the page, but LinkedIn search returned several ambiguous same-name profiles when adding admins.
 
@@ -155,7 +155,7 @@ LinkedIn is not just another social account.
 
 It is a credibility object.
 
-For SandBase, the page helped establish that the company has a public identity beyond the website, while still respecting the founder's account privacy constraints.
+For SandBase, the page helped establish that the company has a public identity beyond the website, while still keeping personal account boundaries clear.
 
 ## Share Copy
 

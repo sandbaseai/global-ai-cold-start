@@ -69,6 +69,14 @@ const cards = [
     blocks: ['Website', 'Blog clusters', 'GitHub repo', 'Discord feedback', 'LinkedIn', 'X'],
     footer: 'Week 2 distribution needs a real foundation to point to.',
   },
+  {
+    file: 'day08-distribution.svg',
+    label: 'DAY 8',
+    title: 'Distribution After Trust',
+    subtitle: 'Fewer, better placements beat link dumping.',
+    blocks: ['Dev.to', 'Directories', 'GitHub', 'Communities', 'LinkedIn', 'X'],
+    footer: 'Distribution works better after trust exists.',
+  },
 ];
 
 function esc(value) {

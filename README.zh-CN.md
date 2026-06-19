@@ -4,7 +4,11 @@
 
 [English](README.md)
 
-这是 [SandBase.ai](https://www.sandbase.ai) 的 30 天 build-in-public 运营记录。SandBase 是面向生产级 AI agents 的 agent infrastructure 平台，核心方向包括 agent runtime、sandboxed execution、tool access、model routing、distributed compute 和 developer APIs。
+SandBase.ai 是面向生产级 AI agents 的 agent infrastructure 平台。
+
+这个仓库记录的不是产品代码，而是产品背后的运营基础建设：SEO、Blog、社媒账号、开发者社区、GitHub 信任资产、内容分发，以及一个早期技术产品如何从外部看起来真实、清楚、可信。
+
+![第 1 周可信基础盘](assets/generated-images/week01-foundation.png)
 
 如果你是第一次看，建议先读：
 
@@ -12,7 +16,9 @@
 - [Day 1 — SEO 体检：先让网站可被理解和抓取](zh-CN/days/day01-seo-audit.md)
 - [社媒图片生成提示词](assets/image-prompts/README.md)
 
-这个仓库不是普通 SEO 清单，也不是目录提交流水账。
+## 这是什么
+
+这不是普通 SEO 清单，也不是目录提交流水账，更不是一堆 AI 生成的营销稿。
 
 它记录的是一个早期 B2B AI infrastructure 产品如何从 0 开始建立第一层可信度：
 
@@ -24,6 +30,12 @@
 - 高质量外链资产
 - 每日运营和问题记录
 - 使用 Codex 作为 AI 运营负责人/协作伙伴的真实过程
+
+目标很简单：
+
+```text
+在向市场要注意力之前，先让 SandBase 看起来真实、有用、有技术可信度。
+```
 
 ## 北极星
 
@@ -53,6 +65,25 @@ The infrastructure layer for developers building production AI agents.
 - 看不出团队在持续建设
 
 这个仓库记录我们如何一步步补齐这些信号。
+
+## 怎么读
+
+如果你是创始人，可以把它当成一份可复制的实战 playbook。
+
+如果你是开发者，可以把它当成一个 AI infra 产品建立公开可信度的幕后记录。
+
+如果你正在用 Codex 做运营，可以重点看每次操作里的确认边界：Codex 可以检查、起草、执行，但发布、提交、改权限这类公开副作用仍然需要人确认。
+
+## 适合转发的话
+
+```text
+我们正在公开记录 SandBase.ai 如何从 0 到 1 搭建一个 AI infrastructure 产品的可信基础盘：
+
+SEO、Blog、GitHub、X、Discord、LinkedIn、开发者目录，以及每天真实发生的运营决策。
+
+这不是增长黑客。
+而是让一个真实技术产品更容易被理解和信任。
+```
 
 ## 每周目标
 
@@ -147,6 +178,18 @@ The infrastructure layer for developers building production AI agents.
 - Pillar 内容成为内部链接 hub
 - 外联具体、有上下文，不是群发模板
 - 官网、Blog、GitHub、社交、社区的定位一致
+
+## 图文索引
+
+| 天数 | 做了什么 | 图 |
+|------|----------|----|
+| Day 1 | SEO 抓取体检 | ![Day 1](assets/generated-images/day01-seo-crawlability.png) |
+| Day 2 | 修复验证和 Search Console 准备 | ![Day 2](assets/generated-images/day02-verification.png) |
+| Day 3 | X 账号作为每日 build signal | ![Day 3](assets/generated-images/day03-x-build-signal.png) |
+| Day 4 | Discord 作为社区入口 | ![Day 4](assets/generated-images/day04-discord-community.png) |
+| Day 5 | LinkedIn 公司主页作为 B2B 可信面 | ![Day 5](assets/generated-images/day05-linkedin-trust.png) |
+| Day 6 | Blog 作为内容基础设施 | ![Day 6](assets/generated-images/day06-blog-system.png) |
+| Day 7 | 官网、Blog、GitHub、社区连成可信系统 | ![Day 7](assets/generated-images/day07-trust-system.png) |
 
 ## 每日记录
 

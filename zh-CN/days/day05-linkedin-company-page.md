@@ -34,7 +34,7 @@ LinkedIn 对 B2B 产品来说不是“多一个社媒账号”。
 别人搜索你时，会不会觉得这是一个真实公司？
 ```
 
-所以公司主页、作者身份、管理员隐私都要认真处理。
+所以公司主页、作者身份、管理员边界都要认真处理。
 
 ## 流程图
 
@@ -83,15 +83,15 @@ SandBaseAI is building agent infrastructure for developers working on production
 - distributed compute
 - helping agents move from demos to reliable systems
 
-## 隐私和管理员决策
+## 隐私和管理员边界
 
-这一天有一个重要问题：创始人不希望某个个人大号公开和 SandBase 关联。
+这一天有一个重要问题：公司需要公开身份，但个人管理员账号不应该被无意暴露。
 
 我们确认：
 
 - 普通访客看到的是 SandBaseAI 公司主页
 - 公司动态显示作者是 SandBaseAI
-- LinkedIn 内部会知道管理员操作
+- LinkedIn 内部会记录管理员权限
 - 普通用户看不到后台管理员列表
 
 添加运营账号做管理员时，因为搜索结果有同名歧义，我们没有冒险选择。
