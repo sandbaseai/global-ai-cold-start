@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 4 图卡](../../assets/generated-images/day04-discord-community.png)
+
 ## 背景
 
 Discord 不是简单建一个群。

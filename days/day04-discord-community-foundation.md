@@ -6,6 +6,8 @@ Stage: Week 1 — Community foundation
 
 Status: Completed
 
+![Day 4 social card](../assets/generated-images/day04-discord-community.png)
+
 ## Context
 
 SandBase already had a Discord server, but a Discord server is not automatically a community.

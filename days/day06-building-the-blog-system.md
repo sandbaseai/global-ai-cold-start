@@ -6,6 +6,8 @@ Stage: Week 1 — Content infrastructure
 
 Status: Completed
 
+![Day 6 social card](../assets/generated-images/day06-blog-system.png)
+
 ## Context
 
 After the homepage, docs, social accounts, and community entry points existed, SandBase needed a place for serious technical content.

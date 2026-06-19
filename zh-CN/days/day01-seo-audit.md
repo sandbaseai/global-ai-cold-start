@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 1 图卡](../../assets/generated-images/day01-seo-crawlability.png)
+
 ## 背景
 
 SandBase.ai 的 30 天运营不是从发帖开始，而是从官网基础盘开始。

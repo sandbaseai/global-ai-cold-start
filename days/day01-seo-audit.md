@@ -6,6 +6,8 @@ Stage: Week 1 — Foundation
 
 Status: Completed
 
+![Day 1 social card](../assets/generated-images/day01-seo-crawlability.png)
+
 ## Context
 
 The first instinct in a 30-day growth plan is usually to publish content.

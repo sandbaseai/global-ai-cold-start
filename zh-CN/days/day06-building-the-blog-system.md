@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 6 图卡](../../assets/generated-images/day06-blog-system.png)
+
 ## 背景
 
 SandBase 需要一个能承载长期技术内容的地方。

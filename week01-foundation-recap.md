@@ -2,6 +2,8 @@
 
 Date: 2026-06-19
 
+![Week 1 trust foundation](assets/generated-images/week01-foundation.png)
+
 ## The Simple Idea
 
 Before asking people to visit SandBase, we needed SandBase to look real when they arrived.

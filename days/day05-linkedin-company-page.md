@@ -6,6 +6,8 @@ Stage: Week 1 — Public trust foundation
 
 Status: Completed
 
+![Day 5 social card](../assets/generated-images/day05-linkedin-trust.png)
+
 ## Context
 
 LinkedIn matters differently from X.

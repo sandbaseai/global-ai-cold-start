@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 2 图卡](../../assets/generated-images/day02-verification.png)
+
 ## 背景
 
 Day 1 找到的是问题和检查清单，Day 2 要做的是验证：线上是否真的能被 Google 正确读取。

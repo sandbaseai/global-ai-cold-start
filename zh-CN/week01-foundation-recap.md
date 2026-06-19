@@ -2,6 +2,8 @@
 
 日期: 2026-06-19
 
+![第 1 周可信基础盘](../assets/generated-images/week01-foundation.png)
+
 ## 最简单的理解
 
 在邀请别人访问 SandBase 之前，我们要先保证别人点进来时，会觉得这是一个真实、持续建设的技术产品。

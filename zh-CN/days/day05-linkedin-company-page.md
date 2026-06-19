@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 5 图卡](../../assets/generated-images/day05-linkedin-trust.png)
+
 ## 背景
 
 LinkedIn 和 X 的作用不一样。

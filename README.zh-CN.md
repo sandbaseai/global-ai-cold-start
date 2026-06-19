@@ -10,6 +10,7 @@
 
 - [第 1 周复盘 — 先搭可信基础盘，再做分发](zh-CN/week01-foundation-recap.md)
 - [Day 1 — SEO 体检：先让网站可被理解和抓取](zh-CN/days/day01-seo-audit.md)
+- [社媒图片生成提示词](assets/image-prompts/README.md)
 
 这个仓库不是普通 SEO 清单，也不是目录提交流水账。
 

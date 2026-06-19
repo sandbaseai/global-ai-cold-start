@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 7 图卡](../../assets/generated-images/day07-trust-system.png)
+
 ## 背景
 
 第一周结束时，SandBase 已经具备几个关键公开面：

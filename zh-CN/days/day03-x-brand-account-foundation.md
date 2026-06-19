@@ -6,6 +6,8 @@
 
 状态: 已完成
 
+![Day 3 图卡](../../assets/generated-images/day03-x-build-signal.png)
+
 ## 背景
 
 官网和 Search Console 只是让 SandBase 可被发现。X 的作用是让外界看到项目在持续建设。
