@@ -302,7 +302,7 @@ Success criteria:
 - [Day 2 — Verification is a growth step, not a cleanup step](days/day02-seo-fix-verification.md)
 - [Day 3 — Setting up X as a lightweight build signal](days/day03-x-brand-account-foundation.md)
 - [Day 4 — Turning Discord into a developer community entry point](days/day04-discord-community-foundation.md)
-- [Day 5 — Creating the LinkedIn company page without exposing the wrong account](days/day05-linkedin-company-page.md)
+- [Day 5 — Creating the LinkedIn company page as a B2B trust surface](days/day05-linkedin-company-page.md)
 - [Day 6 — Building the blog as a technical content engine](days/day06-building-the-blog-system.md)
 - [Day 7 — Closing week one with GitHub trust assets and topic clusters](days/day07-first-content-clusters.md)
 - [Week 1 recap — Building the trust foundation before distribution](week01-foundation-recap.md)
