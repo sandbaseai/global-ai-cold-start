@@ -113,12 +113,21 @@ Emerging Agent Infrastructure
 - Day 9 开始时重新调整优先级。
 - 用户明确今天有三个方向：日常运营、外部目录发布准备、建立 agent market。
 - agent market 被提高优先级，因为它可能成为 SandBase 的生态层，而不是一次性的目录提交动作。
+- Peerlist profile 已使用公司信息创建：
+  - 公开 profile：`https://peerlist.io/sandbase`
+  - 名称：`SandBase AI`
+  - bio：`Agent infrastructure for developers building production AI agents.`
+  - website：`https://www.sandbase.ai`
+  - X：`SandbaseAI`
+- LinkedIn 公司主页没有填写，因为 Peerlist 的 LinkedIn 字段限定为 `linkedin.com/in/`，这是个人主页格式，不适合公司主页。
+- 已打开 Peerlist Launchpad，但账号显示 `25% You can’t interact yet`，暂时无法提交项目 launch。
 
 ## 创建或更新的链接
 
 - Planning doc: [Emerging Agent Infrastructure Registry](../../playbooks/emerging-agent-infrastructure-registry.md)
 - Submission kit: [外部目录提交素材包](../playbooks/directory-submission-kit.md)
 - Directory batch: [外部目录批次 — 2026-06-20](../playbooks/directory-batch-2026-06-20.md)
+- Peerlist profile: https://peerlist.io/sandbase
 
 ## 问题 / 阻塞
 
@@ -127,6 +136,9 @@ Emerging Agent Infrastructure
 - 项目提交先人工审核，还是做公开 submit form？
 - 收录时是否必须有 SandBase compatibility，还是先判断 integration potential？
 - Peerlist 和 DevHunt 在内置浏览器里都打开超时，所以第一次提交已准备好，但还没有提交。
+- 每个目录都必须记录费用状态。Uneed 有免费新产品排队和付费升级；Peerlist 和 DevHunt 在提交前费用暂未确认。
+- 新增预算规则：单个目录或 launch 动作不超过 30 美金，优先免费。任何付费仍需人工确认。
+- Peerlist profile 已创建，但 Launchpad 需要更高账号 / profile 完成度后才能互动。
 
 ## 经验
 
@@ -140,4 +152,4 @@ Registry 有价值的前提是有判断力。
 
 ## 下一步
 
-发布一个可控的外部 profile，优先选择 Peerlist Project 这类开发者渠道，然后记录提交状态。
+继续完善 Peerlist：添加 logo、相关 skills，以及如果入口可用则添加 product/project，再重试 Launchpad。

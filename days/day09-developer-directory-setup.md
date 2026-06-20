@@ -113,12 +113,21 @@ Each project should be evaluated by:
 - Day 9 started by revising priorities.
 - The user identified three workstreams: daily operations, external directory preparation, and building a market/ecosystem around agent projects.
 - The market/registry idea was moved up in priority because it can become SandBase's ecosystem layer rather than a one-off directory tactic.
+- Peerlist profile was created with company-facing information:
+  - public profile: `https://peerlist.io/sandbase`
+  - name: `SandBase AI`
+  - bio: `Agent infrastructure for developers building production AI agents.`
+  - website: `https://www.sandbase.ai`
+  - X: `SandbaseAI`
+- LinkedIn company page was not added because Peerlist's social field expects `linkedin.com/in/`, which is a personal profile format rather than a company page format.
+- Peerlist Launchpad was opened, but the account showed `25% You can’t interact yet`, so the project launch could not be submitted yet.
 
 ## Links Created Or Updated
 
 - Planning doc: [Emerging Agent Infrastructure Registry](../playbooks/emerging-agent-infrastructure-registry.md)
 - Submission kit: [Directory Submission Kit](../playbooks/directory-submission-kit.md)
 - Directory batch: [Directory Batch — 2026-06-20](../playbooks/directory-batch-2026-06-20.md)
+- Peerlist profile: https://peerlist.io/sandbase
 
 ## Questions / Blockers
 
@@ -127,6 +136,9 @@ Each project should be evaluated by:
 - Should project submission be manual at first, or include a public submit form?
 - How much SandBase compatibility should be required before listing?
 - Peerlist and DevHunt both timed out in the in-app browser session, so the first submission is prepared but not yet submitted.
+- Cost status must be recorded for each directory. Uneed has a free new-product queue and paid upgrades; Peerlist and DevHunt pricing remain unconfirmed before submission.
+- Budget added: each directory or launch action should stay under $30, with free preferred. Any payment still requires human confirmation.
+- Peerlist profile exists, but Launchpad requires more account/profile readiness before interaction.
 
 ## Lesson
 
@@ -140,4 +152,4 @@ Track emerging agent infrastructure projects that represent future directions an
 
 ## Next Action
 
-Publish one controlled external profile, preferably on a developer-oriented channel such as Peerlist Project, then record the submission status.
+Improve Peerlist readiness by adding company-safe profile assets such as logo, relevant skills, and a product/project entry if available; then retry Launchpad.

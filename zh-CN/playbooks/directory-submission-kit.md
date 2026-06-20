@@ -26,9 +26,34 @@
 
 如果答案是否定的，先跳过。
 
+## 费用原则
+
+默认不为目录提交付费。
+
+预算：
+
+```text
+单个目录 / launch 动作最高 30 美金。
+优先免费。
+即使低于 30 美金，付费前也必须人工确认。
+```
+
+每个渠道都要记录：
+
+- 免费还是付费
+- 是否有免费 listing
+- 付费曝光是否只是可选项
+- 付费项未来是否值得考虑
+- 付费项是否在 30 美金预算内
+- 费用是否还未确认
+
+如果费用不清楚，最终提交前先停下来人工确认。如果付费项超过 30 美金，不使用。
+
 ## 推荐第一个发布目标
 
 ### 首选：Peerlist Project
+
+费用状态：公开页面暂未确认，提交详情需要登录后查看。
 
 原因：
 
@@ -45,6 +70,8 @@ SandBase is agent infrastructure for developers building production AI agents.
 
 ### 备选：DevHunt
 
+费用状态：暂未确认。
+
 原因：
 
 - 更偏开发者工具
@@ -53,11 +80,14 @@ SandBase is agent infrastructure for developers building production AI agents.
 
 ### 暂缓
 
-- Product Hunt  
+- Product Hunt
   等 launch assets、评论计划、截图和回复节奏准备好再做。
 
-- 泛 AI 目录  
+- 泛 AI 目录
   谨慎使用。和普通 AI app 放在一起会稀释 SandBase 定位。
+
+- 付费目录包
+  暂时跳过，除非渠道有明确开发者相关性，并且付费价值足够清楚。
 
 ## 产品名
 
@@ -194,6 +224,8 @@ SandBase is building infrastructure for the emerging agent ecosystem: runtimes, 
 
 - 产品名正确
 - 分类不会让 SandBase 看起来像普通 AI app
+- 费用状态已经检查
+- 没有未经确认选择付费项
 - 一句话介绍包含 `agent infrastructure`
 - 官网链接是 `https://www.sandbase.ai`
 - 如果平台支持，加入 GitHub 链接
@@ -210,6 +242,7 @@ SandBase is building infrastructure for the emerging agent ecosystem: runtimes, 
 - 提交 URL
 - 如果有公开页面，记录 profile URL
 - 选择的分类
+- 费用状态
 - 使用的文案
 - 状态：submitted / pending review / published / blocked
 - 阻塞或审核说明

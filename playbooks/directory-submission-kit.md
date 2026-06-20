@@ -26,9 +26,34 @@ Before submitting, check:
 
 If the answer is no, skip it for now.
 
+## Cost Rule
+
+Do not pay for directory submissions by default.
+
+Budget:
+
+```text
+Maximum $30 per directory / launch action.
+Free is preferred.
+Anything paid still requires human confirmation before purchase or submit.
+```
+
+For every channel, record:
+
+- free or paid
+- whether a free listing exists
+- whether paid placement is optional
+- whether the paid option is worth considering later
+- whether the paid option is within the $30 limit
+- whether pricing is unconfirmed
+
+If pricing is unclear, stop before final submission and confirm manually. If a paid option is above $30, do not use it.
+
 ## Recommended First Target
 
 ### Primary: Peerlist Project
+
+Cost status: unconfirmed from public page; appears to require sign-in before submission details.
 
 Why:
 
@@ -45,6 +70,8 @@ SandBase is agent infrastructure for developers building production AI agents.
 
 ### Fallback: DevHunt
 
+Cost status: unconfirmed.
+
 Why:
 
 - developer-tool oriented
@@ -53,11 +80,14 @@ Why:
 
 ### Wait For Later
 
-- Product Hunt  
+- Product Hunt
   Wait until launch assets, comments, screenshots, and reply plan are ready.
 
-- Broad AI directories  
+- Broad AI directories
   Use carefully. They can dilute the positioning if SandBase is listed next to generic AI apps.
+
+- Paid directory packages
+  Skip for now unless the channel has clear developer relevance and the paid value is obvious.
 
 ## Product Name
 
@@ -194,6 +224,8 @@ Before pressing submit:
 
 - product name is correct
 - category does not make SandBase look like a generic AI app
+- cost status is checked
+- no paid option is selected unless explicitly approved
 - one-line description uses `agent infrastructure`
 - website link is `https://www.sandbase.ai`
 - GitHub link is included if supported
@@ -210,6 +242,7 @@ Record in the Day 9 log:
 - submitted URL
 - public profile URL if available
 - category chosen
+- cost status
 - copy used
 - status: submitted / pending review / published / blocked
 - blocker or review note

@@ -18,7 +18,20 @@ Avoid channels that force SandBase into a generic AI app category.
 
 Priority: P0
 
-Status: prepared, browser opening needs retry
+Status: profile created; Launchpad blocked by account readiness
+
+Cost status: unconfirmed. Public Launchpad page did not expose a price before sign-in; submission flow currently requires Google sign-in.
+
+Budget rule: only continue if free or under $30; final submit/purchase requires human confirmation.
+
+Current result:
+
+- Public profile created: `https://peerlist.io/sandbase`
+- Website and X added
+- LinkedIn company page not added because Peerlist expects `linkedin.com/in/` personal profile format
+- Launchpad currently shows `25% You can’t interact yet`
+- No paid step appeared
+- No project launch submitted yet
 
 Why this channel:
 
@@ -60,6 +73,10 @@ Priority: P1
 
 Status: prepared, browser opening needs retry
 
+Cost status: unconfirmed. Do not submit if a paid step appears before human approval.
+
+Budget rule: only continue if free or under $30; final submit/purchase requires human confirmation.
+
 Why this channel:
 
 - developer-tool oriented
@@ -89,6 +106,18 @@ Priority: P2
 
 Status: prepared for later
 
+Cost status: free option available for a new product launch queue; paid options exist.
+
+Budget rule: use the free queue by default. `Skip the line` at $29.99 is within budget but still requires explicit approval before purchase.
+
+Observed pricing:
+
+- New product / join the line: Free
+- Skip the line: $29.99
+- Existing product relaunch: $15
+- Uneed Pro: $89/year early-bird at time of check
+- Auto-submit to 100+ directories: $249
+
 Why this channel:
 
 - can provide a startup/product discovery profile
@@ -111,6 +140,7 @@ Use carefully:
 
 - This should not become a generic AI tools listing.
 - Submit after Peerlist or DevHunt if the profile quality looks acceptable.
+- Use the free queue only unless a paid upgrade is explicitly approved.
 
 ## Browser Attempt Log
 

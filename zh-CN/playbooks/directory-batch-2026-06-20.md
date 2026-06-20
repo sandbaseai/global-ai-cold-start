@@ -18,7 +18,20 @@ Agent infrastructure for developers building production AI agents.
 
 优先级：P0
 
-状态：素材已准备，浏览器打开需要重试
+状态：profile 已创建；Launchpad 被账号完成度限制
+
+费用状态：暂未确认。公开 Launchpad 页面在登录前没有显示价格；提交流程当前需要 Google 登录。
+
+预算规则：只在免费或低于 30 美金时继续；最终提交或购买前必须人工确认。
+
+当前结果：
+
+- 公开 profile 已创建：`https://peerlist.io/sandbase`
+- 已添加官网和 X
+- LinkedIn 公司主页未添加，因为 Peerlist 只接受 `linkedin.com/in/` 个人主页格式
+- Launchpad 当前显示 `25% You can’t interact yet`
+- 没有出现付费步骤
+- 暂未提交 project launch
 
 为什么选它：
 
@@ -60,6 +73,10 @@ It provides the runtime layer for agent apps: sandboxed execution, safe tool acc
 
 状态：素材已准备，浏览器打开需要重试
 
+费用状态：暂未确认。如果提交前出现付费步骤，必须先人工确认。
+
+预算规则：只在免费或低于 30 美金时继续；最终提交或购买前必须人工确认。
+
 为什么选它：
 
 - 偏开发者工具
@@ -89,6 +106,18 @@ SandBase helps teams build production AI agents with infrastructure for sandboxe
 
 状态：后续准备
 
+费用状态：新产品排队发布有免费选项，同时存在付费项。
+
+预算规则：默认使用免费排队。`Skip the line` 价格 $29.99，在预算内，但购买前仍然必须明确确认。
+
+已确认价格：
+
+- New product / join the line：Free
+- Skip the line：$29.99
+- Existing product relaunch：$15
+- Uneed Pro：当前 early-bird 年付 $89
+- Auto-submit to 100+ directories：$249
+
 为什么选它：
 
 - 可以形成 startup/product discovery profile
@@ -111,6 +140,7 @@ SandBase is building infrastructure for the emerging agent ecosystem: runtimes, 
 
 - 不要变成泛 AI 工具 listing。
 - 等 Peerlist 或 DevHunt 后再判断是否提交。
+- 只使用免费排队，除非明确确认付费升级。
 
 ## 浏览器尝试记录
 
