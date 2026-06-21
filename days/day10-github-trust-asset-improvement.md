@@ -103,10 +103,31 @@ This is an early sign that the external profile strategy is working.
   - Preview mode was checked. The public-style preview correctly shows the SandBase logo, tagline, category, pricing, tags, and a website link with Uneed referral parameters.
   - No paid `Submit to 100+ directories` action was used.
   - No launch date was scheduled yet.
+- LinkedIn company distribution follow-up:
+  - A company-page post was prepared around the Uneed launch preparation and SandBase's production-agent positioning.
+  - A supporting visual was generated with the local image-generation workflow in `scripts/generate-images-sandbase.py`.
+  - Generated asset: `assets/generated-images/linkedin-uneed-agent-infra.png`.
+  - The image was inserted into the LinkedIn company post manually.
+  - The post copy was tightened before publishing so it reads as a product update, not an operations diary:
+    - opening question: `What breaks first when AI agents move from demo to production?`
+    - product context: `We are preparing SandBase for a small launch on Uneed.`
+    - positioning: agent infrastructure for developers building production AI agents.
+    - proof points: sandboxed runtime, safe tool access, model routing, distributed compute.
+  - The post appeared in the LinkedIn company page published list.
+- LinkedIn operational-account privacy cleanup:
+  - The operating account is used for administration, but public activity should not expose the person behind the company work.
+  - Privacy settings were tightened after publishing:
+    - profile viewing mode: private mode
+    - page visit visibility: off
+    - connection visibility: off
+    - follow visibility: only visible to the account owner
+    - organization / interests representation on content: off
+  - Principle: company channels can be public; the operational account should stay quiet and non-promotional.
 
 ## Links Created Or Updated
 
 - Evidence screenshot: [Google brand result with Peerlist](../assets/google-brand-result-peerlist-2026-06-21.png)
+- LinkedIn social visual: [linkedin-uneed-agent-infra.png](../assets/generated-images/linkedin-uneed-agent-infra.png)
 - Peerlist profile/posts surface: https://peerlist.io/sandbase
 - Uneed draft slug prepared: `sandbase`
 

@@ -103,10 +103,31 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
   - 已检查 preview mode。预览页正确展示 SandBase logo、tagline、category、pricing、tags，以及带 Uneed referral 参数的官网链接。
   - 没有使用付费的 `Submit to 100+ directories`。
   - 暂时没有安排 launch 日期。
+- LinkedIn 公司页分发跟进：
+  - 围绕 Uneed 发布准备和 SandBase 的 production-agent 定位，准备了一条公司页动态。
+  - 使用本地图片生成流程 `scripts/generate-images-sandbase.py` 生成配图。
+  - 生成图片：`assets/generated-images/linkedin-uneed-agent-infra.png`。
+  - 用户手动把图片插入 LinkedIn 公司页动态。
+  - 发布前把文案收短，让它更像产品更新，而不是运营流水账：
+    - 开头问题：`What breaks first when AI agents move from demo to production?`
+    - 产品背景：`We are preparing SandBase for a small launch on Uneed.`
+    - 定位：面向 production AI agents 的 agent infrastructure。
+    - 能力点：sandboxed runtime、safe tool access、model routing、distributed compute。
+  - 该动态已经出现在 LinkedIn 公司页 published 列表里。
+- LinkedIn 运营账号隐私加固：
+  - 运营账号用于后台管理，但不希望公开暴露个人和公司运营之间的关系。
+  - 发布后完成隐私收尾：
+    - 访问别人主页时使用 private mode
+    - page visit visibility 关闭
+    - connection visibility 关闭
+    - follow visibility 设为 only visible to me
+    - organization / interests representation on content 关闭
+  - 原则：公司渠道可以公开；运营账号保持低可见、少痕迹、不做个人背书。
 
 ## 创建或更新的链接
 
 - 证据截图：[Google brand result with Peerlist](../../assets/google-brand-result-peerlist-2026-06-21.png)
+- LinkedIn 配图：[linkedin-uneed-agent-infra.png](../../assets/generated-images/linkedin-uneed-agent-infra.png)
 - Peerlist profile/posts surface: https://peerlist.io/sandbase
 - Uneed 草稿 slug 已准备：`sandbase`
 

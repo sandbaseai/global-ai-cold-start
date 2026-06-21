@@ -1,10 +1,10 @@
 # Day 13 — 日常社媒运营循环
 
-日期: TBD
+日期: 2026-06-21
 
 阶段: 第 2 周 — 分发和日常运营
 
-状态: 计划中
+状态: 进行中
 
 ## 目标
 
@@ -43,20 +43,46 @@ Discord 问题或更新
 
 ## 执行记录
 
-执行时补充。
+- LinkedIn 公司页：
+  - 发布了一条和 Uneed launch 准备相关的公司动态。
+  - 内容保持产品视角，而不是运营流水账。
+  - 加入了一张生成配图，让动态在 feed 里更容易被注意到。
+  - 对外只使用公司身份；不主动暴露后台运营账号。
+- X：
+  - 完成了 2 次互动。
+  - 转发了 1 条相关内容。
+  - 主题继续围绕 agents、distributed compute 和 production infrastructure。
+- Discord：
+  - 继续保持日常存在感：小更新、问题、轻互动，而不是重推广。
+- 账号卫生：
+  - LinkedIn 发帖后检查并加固了运营账号隐私。
 
 ## 创建或更新的链接
 
-执行时补充。
+- LinkedIn 配图：[linkedin-uneed-agent-infra.png](../../assets/generated-images/linkedin-uneed-agent-infra.png)
+- LinkedIn 公司页：https://www.linkedin.com/company/sandbaseai/
+- Uneed 草稿 slug 已准备：`sandbase`
 
 ## 问题 / 阻塞
 
-执行时补充。
+- 等 LinkedIn 页面稳定后，可以补充最终 post 详情链接。
+- 明天要决定 LinkedIn 下一条内容写 Agent Ecosystem、Hackathon Support，还是 agents 为什么需要 sandboxed runtime。
 
 ## 经验
 
-执行后补充。
+SandBase 的公开社媒应该先讲产品问题，而不是运营过程。
+
+更适合公开传播的角度是：
+
+```text
+What breaks when AI agents move from demo to production?
+```
+
+运营过程依然有价值，但更适合放在 build-in-public 实战笔记里。
 
 ## 下一步
 
-执行后补充。
+- 明天继续做一条产品视角的公司动态或评论互动。
+- X 用于更轻量的互动和转发。
+- Discord 用于提问和收集反馈。
+- 每天记录一个用户问题或异议，后续转成 blog、docs 或 landing page 内容。
