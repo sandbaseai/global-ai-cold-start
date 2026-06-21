@@ -72,11 +72,30 @@ This is an early sign that the external profile strategy is working.
   - submitted the canonical www sitemap index `https://www.sandbase.ai/sitemap-index.xml` on June 21, 2026.
   - GSC confirmed the submission, but the new www entry initially shows `Couldn't fetch` / unknown with 0 discovered pages.
   - Decision: keep both entries for now, treat the www entry as a fresh submission, and re-check tomorrow before making more changes.
+- Directory/profile follow-up:
+  - DevHunt was checked again. The submit path exists at `https://devhunt.org/login`, with GitHub and Google login options.
+  - Decision: do not continue DevHunt from an unclear personal login context. Use a company-controlled account before submitting.
+  - Uneed was opened as the next directory target.
+  - A SandBase product draft was created in Uneed's waiting-line editor.
+  - Uneed generated an initial draft from the website, then the copy was adjusted to match SandBase's core positioning.
+  - Current Uneed draft:
+    - name: `SandBase`
+    - slug: `sandbase`
+    - URL: `https://www.sandbase.ai`
+    - category: `Development`
+    - pricing: `Freemium`
+    - tags: `API & Data`, `AI`, `Development`
+    - tagline: `Agent infrastructure for developers building production AI agents.`
+  - The product draft was saved successfully. Uneed showed `Product updated`.
+  - Preview mode was checked. The public-style preview correctly shows the SandBase logo, tagline, category, pricing, tags, and a website link with Uneed referral parameters.
+  - No paid `Submit to 100+ directories` action was used.
+  - No launch date was scheduled yet.
 
 ## Links Created Or Updated
 
 - Evidence screenshot: [Google brand result with Peerlist](../assets/google-brand-result-peerlist-2026-06-21.png)
 - Peerlist profile/posts surface: https://peerlist.io/sandbase
+- Uneed draft slug prepared: `sandbase`
 
 ## Questions / Blockers
 
@@ -84,6 +103,8 @@ This is an early sign that the external profile strategy is working.
 - Need to re-check the newly submitted `https://www.sandbase.ai/sitemap-index.xml` in Google Search Console tomorrow.
 - Need to re-check `Hackathon Support` after deployment and confirm it appears in `sitemap-pages.xml`.
 - Need to continue producing correct third-party profile signals, not only website content.
+- Need to decide whether to schedule the Uneed launch or keep it as a draft until launch assets are ready.
+- Need to continue DevHunt only from a company-controlled login context.
 
 ## Lesson
 
@@ -105,5 +126,5 @@ Today:
 
 - Re-check the newly submitted www sitemap index in Google Search Console tomorrow.
 - Do 2-3 light interactions on X / Peerlist around production agents.
-- Advance one more credible external profile: DevHunt or Uneed.
+- Decide whether Uneed should be scheduled now or held until launch assets are ready.
 - Prepare a product-facing post around Agent Ecosystem or Hackathon Support.

@@ -72,11 +72,30 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
   - 2026 年 6 月 21 日提交 canonical www 版本 `https://www.sandbase.ai/sitemap-index.xml`。
   - GSC 弹窗确认已成功提交，但列表中新 www 记录初始状态显示 `无法抓取` / 未知，发现页面数为 0。
   - 决策：暂时保留两个 sitemap 记录，把 www 记录视为刚提交后的待处理状态，明天复查后再决定是否需要进一步处理。
+- 目录 / 外部 profile 跟进：
+  - 再次检查 DevHunt。提交入口存在，地址是 `https://devhunt.org/login`，支持 GitHub 和 Google 登录。
+  - 决策：不在账号归属不清楚的情况下继续 DevHunt。后续使用公司可控账号再提交。
+  - 打开 Uneed，作为今天继续推进的目录目标。
+  - 在 Uneed waiting-line editor 创建 SandBase 产品草稿。
+  - Uneed 先从官网自动生成草稿，再手动把文案调整回 SandBase 的核心定位。
+  - 当前 Uneed 草稿：
+    - name: `SandBase`
+    - slug: `sandbase`
+    - URL: `https://www.sandbase.ai`
+    - category: `Development`
+    - pricing: `Freemium`
+    - tags: `API & Data`, `AI`, `Development`
+    - tagline: `Agent infrastructure for developers building production AI agents.`
+  - 产品草稿已保存成功，Uneed 页面提示 `Product updated`。
+  - 已检查 preview mode。预览页正确展示 SandBase logo、tagline、category、pricing、tags，以及带 Uneed referral 参数的官网链接。
+  - 没有使用付费的 `Submit to 100+ directories`。
+  - 暂时没有安排 launch 日期。
 
 ## 创建或更新的链接
 
 - 证据截图：[Google brand result with Peerlist](../../assets/google-brand-result-peerlist-2026-06-21.png)
 - Peerlist profile/posts surface: https://peerlist.io/sandbase
+- Uneed 草稿 slug 已准备：`sandbase`
 
 ## 问题 / 阻塞
 
@@ -84,6 +103,8 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
 - 明天需要在 Google Search Console 里复查新提交的 `https://www.sandbase.ai/sitemap-index.xml`。
 - `Hackathon Support` 部署后需要再次检查，确认它出现在 `sitemap-pages.xml` 中。
 - 需要继续做正确的第三方 profile 信号，不能只依赖官网内容。
+- 需要决定 Uneed 是现在 schedule launch，还是等 launch assets 更完整后再发布。
+- DevHunt 后续需要使用公司可控登录上下文继续。
 
 ## 经验
 
@@ -105,5 +126,5 @@ Google 正在开始把 SandBase AI 和 "agent infrastructure for developers buil
 
 - 明天复查 Google Search Console 里新提交的 www sitemap index。
 - 在 X / Peerlist 做 2-3 次围绕 production agents 的轻互动。
-- 推进一个新的可信外部 profile：DevHunt 或 Uneed。
+- 决定 Uneed 是马上排期，还是等 launch assets 准备好后再排期。
 - 准备一条围绕 Agent Ecosystem 或 Hackathon Support 的产品视角内容。
