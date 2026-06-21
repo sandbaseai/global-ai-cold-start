@@ -49,9 +49,27 @@ Discord 问题或更新
   - 加入了一张生成配图，让动态在 feed 里更容易被注意到。
   - 对外只使用公司身份；不主动暴露后台运营账号。
 - X：
-  - 完成了 2 次互动。
-  - 转发了 1 条相关内容。
+  - 完成了 3 条高质量技术回复。
   - 主题继续围绕 agents、distributed compute 和 production infrastructure。
+  - 没有加官网链接。目标是真实参与，不是强行引流。
+  - 回复 1：围绕一个 personal agent runtime 项目，补充 durable conversations、BYO tools、sandbox workspace、browser access 和 scheduled jobs 的价值。
+  - 回复 2：围绕 retrieval、context assembly、tool calling、sandboxed execution、evaluation、observability 之间的集成层问题做技术回应。
+  - 回复 3：围绕 distributed compute for agent workloads，补充 burstiness、tool-heavy execution、isolation，以及 scheduler/runtime 层的重要性。
+  - 用 SandBase 账号发布了一条独立观点动态：
+
+```text
+The next layer for AI agents is not just better models.
+
+It is runtime infrastructure:
+
+- sandboxed execution
+- safe tool access
+- durable state
+- model routing
+- distributed compute for bursty workloads
+
+Production agents need somewhere reliable to run.
+```
 - Discord：
   - 继续保持日常存在感：小更新、问题、轻互动，而不是重推广。
 - 账号卫生：
@@ -61,12 +79,14 @@ Discord 问题或更新
 
 - LinkedIn 配图：[linkedin-uneed-agent-infra.png](../../assets/generated-images/linkedin-uneed-agent-infra.png)
 - LinkedIn 公司页：https://www.linkedin.com/company/sandbaseai/
+- X 观点动态：https://x.com/SandbaseAI/status/2068531079229874614
 - Uneed 草稿 slug 已准备：`sandbase`
 
 ## 问题 / 阻塞
 
 - 等 LinkedIn 页面稳定后，可以补充最终 post 详情链接。
 - 明天要决定 LinkedIn 下一条内容写 Agent Ecosystem、Hackathon Support，还是 agents 为什么需要 sandboxed runtime。
+- X 互动质量比互动数量更重要。避开泛 AI 赚钱、prompt 课程、roadmap、纯 engagement bait 的内容。
 
 ## 经验
 
@@ -79,6 +99,14 @@ What breaks when AI agents move from demo to production?
 ```
 
 运营过程依然有价值，但更适合放在 build-in-public 实战笔记里。
+
+X 的运营规则应该是：
+
+```text
+只有 SandBase 能补充真实工程视角时，才回复。
+```
+
+这个账号应该像一个正在认真做 agent infrastructure 的团队，而不是追求曝光的增长号。
 
 ## 下一步
 
