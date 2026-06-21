@@ -99,6 +99,10 @@ Day 9-14 的日志执行时补充：
 - 一个经验
 - 下一步
 
+每天重复执行的流程见：
+
+- [第 2 周每日运营 SOP](playbooks/daily-operations-sop-week02.md)
+
 ## 第 2 周北极星
 
 ```text
