@@ -74,7 +74,20 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
   - 决策：暂时保留两个 sitemap 记录，把 www 记录视为刚提交后的待处理状态，明天复查后再决定是否需要进一步处理。
 - 目录 / 外部 profile 跟进：
   - 再次检查 DevHunt。提交入口存在，地址是 `https://devhunt.org/login`，支持 GitHub 和 Google 登录。
-  - 决策：不在账号归属不清楚的情况下继续 DevHunt。后续使用公司可控账号再提交。
+  - 用户完成了 DevHunt 的 Google 登录。
+  - DevHunt 自动生成了带个人信息的 profile 字段，所以把可见 profile 字段改成 SandBase 公司口径：
+    - full name: `SandBase AI`
+    - username: `sandbaseai`
+    - social URL: `https://www.linkedin.com/company/sandbaseai/`
+    - bio: `SandBase AI builds agent infrastructure for developers building production AI agents: sandboxed runtime, safe tool access, model routing, APIs, and distributed compute.`
+  - 打开 DevHunt 新工具表单，并准备了 SandBase 产品字段：
+    - tool name: `SandBase`
+    - slogan: `Agent infrastructure for production AI agents`
+    - website: `https://www.sandbase.ai`
+    - GitHub: `https://github.com/sandbaseai`
+    - description: `SandBase is agent infrastructure for developers building production AI agents. It provides the runtime layer for agent apps: sandboxed execution, safe tool access, model routing, APIs, and distributed compute for agent workloads.`
+  - 检查 DevHunt launch week 选项，当前可选 launch week 均显示 `$49`，超过当前 30 美金预算。
+  - 决策：今天不 schedule / submit DevHunt。保留已准备好的文案，除非后续发现免费选项或预算规则变化，否则先不做付费 launch。
   - 打开 Uneed，作为今天继续推进的目录目标。
   - 在 Uneed waiting-line editor 创建 SandBase 产品草稿。
   - Uneed 先从官网自动生成草稿，再手动把文案调整回 SandBase 的核心定位。
@@ -104,7 +117,7 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
 - `Hackathon Support` 部署后需要再次检查，确认它出现在 `sitemap-pages.xml` 中。
 - 需要继续做正确的第三方 profile 信号，不能只依赖官网内容。
 - 需要决定 Uneed 是现在 schedule launch，还是等 launch assets 更完整后再发布。
-- DevHunt 后续需要使用公司可控登录上下文继续。
+- 后续需要判断 DevHunt 的 $49 launch 是否值得做；按当前 30 美金预算规则，暂时不做。
 
 ## 经验
 

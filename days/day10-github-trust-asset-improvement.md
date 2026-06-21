@@ -74,7 +74,20 @@ This is an early sign that the external profile strategy is working.
   - Decision: keep both entries for now, treat the www entry as a fresh submission, and re-check tomorrow before making more changes.
 - Directory/profile follow-up:
   - DevHunt was checked again. The submit path exists at `https://devhunt.org/login`, with GitHub and Google login options.
-  - Decision: do not continue DevHunt from an unclear personal login context. Use a company-controlled account before submitting.
+  - DevHunt Google login was completed by the user.
+  - DevHunt auto-created a profile with personal fields, so those visible profile fields were changed to SandBase company information:
+    - full name: `SandBase AI`
+    - username: `sandbaseai`
+    - social URL: `https://www.linkedin.com/company/sandbaseai/`
+    - bio: `SandBase AI builds agent infrastructure for developers building production AI agents: sandboxed runtime, safe tool access, model routing, APIs, and distributed compute.`
+  - A new DevHunt tool draft form was opened and the SandBase product fields were prepared:
+    - tool name: `SandBase`
+    - slogan: `Agent infrastructure for production AI agents`
+    - website: `https://www.sandbase.ai`
+    - GitHub: `https://github.com/sandbaseai`
+    - description: `SandBase is agent infrastructure for developers building production AI agents. It provides the runtime layer for agent apps: sandboxed execution, safe tool access, model routing, APIs, and distributed compute for agent workloads.`
+  - DevHunt launch week options were checked. Available launch weeks showed `$49`, which is above the current $30 budget.
+  - Decision: do not schedule or submit DevHunt today. Keep the prepared copy and revisit only if a free option appears or the budget decision changes.
   - Uneed was opened as the next directory target.
   - A SandBase product draft was created in Uneed's waiting-line editor.
   - Uneed generated an initial draft from the website, then the copy was adjusted to match SandBase's core positioning.
@@ -104,7 +117,7 @@ This is an early sign that the external profile strategy is working.
 - Need to re-check `Hackathon Support` after deployment and confirm it appears in `sitemap-pages.xml`.
 - Need to continue producing correct third-party profile signals, not only website content.
 - Need to decide whether to schedule the Uneed launch or keep it as a draft until launch assets are ready.
-- Need to continue DevHunt only from a company-controlled login context.
+- Need to decide later whether DevHunt's $49 launch is worth doing. Current rule says no because it is above the $30 cap.
 
 ## Lesson
 
