@@ -26,6 +26,7 @@ Cold Start 的意思是：几乎没有受众、没有搜索基础、没有可信
 你可以直接复用：
 
 - 每日增长 checklist
+- 增长、海外拓展和黑客松赞助的每日执行面板
 - SEO 和内容结构
 - 开发者社区搭建方式
 - GitHub 信任资产案例
@@ -37,6 +38,10 @@ Cold Start 的意思是：几乎没有受众、没有搜索基础、没有可信
 
 如果你是第一次看，建议先读：
 
+- [Daily Command Center](daily-command-center.md)
+- [30-Day Growth Diary](30-day-growth-diary/)
+- [Overseas Builders Outreach](overseas-builders-outreach/)
+- [Hackathon Sponsorship](hackathon-sponsorship/)
 - [第 1 周复盘 — 先搭可信基础盘，再做分发](zh-CN/week01-foundation-recap.md)
 - [第 2 周计划 — 分发和日常运营](zh-CN/week02-distribution-plan.md)
 - [Day 1 — SEO 体检：先让网站可被理解和抓取](zh-CN/days/day01-seo-audit.md)

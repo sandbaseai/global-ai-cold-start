@@ -25,8 +25,21 @@ What will be included:
 - follow-up workflows
 - lessons from real conversations
 
+Start here:
+
+- [Daily SOP](daily-sop.md)
+- [30-day outreach plan](30-day-plan.md)
+- [Outreach scripts](outreach-scripts.md)
+- [CRM template](crm-template.md)
+
 Core principle:
 
 ```text
 Do not pitch first. Understand the builder first.
+```
+
+Current operating goal:
+
+```text
+Find 100 relevant overseas AI builders, start 10-15 useful conversations, and turn repeated pain points into product and content direction.
 ```

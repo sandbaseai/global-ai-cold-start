@@ -26,6 +26,7 @@ What we are building:
 What you can copy:
 
 - daily growth checklists
+- daily command center for growth, outreach, and hackathon sponsorship
 - SEO and content structure
 - developer community setup
 - GitHub trust asset examples
@@ -37,7 +38,10 @@ What you can copy:
 
 If you are new here, start with:
 
+- [Daily Command Center](daily-command-center.md)
 - [30-Day Growth Diary](30-day-growth-diary/)
+- [Overseas Builders Outreach](overseas-builders-outreach/)
+- [Hackathon Sponsorship](hackathon-sponsorship/)
 - [Week 1 recap — Building the trust foundation before distribution](30-day-growth-diary/weekly-recaps/week01-foundation-recap.md)
 - [Week 2 plan — Distribution and daily operations](30-day-growth-diary/weekly-recaps/week02-distribution-plan.md)
 - [Day 1 — Before content, make sure Google can see the site](30-day-growth-diary/days/day01-seo-audit.md)

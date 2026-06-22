@@ -30,3 +30,15 @@ What will be included:
 - prize track ideas
 - technical support package
 - post-event follow-up plan
+
+Start here:
+
+- [Daily SOP](daily-sop.md)
+- [30-day hackathon sponsorship plan](30-day-plan.md)
+- [SandBase hackathon support offer](sponsorship-offer.md)
+
+Current operating goal:
+
+```text
+Find 30 relevant AI hackathons or builder events, contact 10 organizers, and convert 2-3 conversations into concrete support opportunities.
+```
