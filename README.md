@@ -1,16 +1,20 @@
 # Global AI Cold Start: 30 Days to Win Overseas AI Builders
 
-> A build-in-public growth playbook for taking an AI startup from zero to its first overseas builders, credible channels, content assets, backlinks, and community signals.
+> A live build-in-public playbook for taking an AI startup from zero to its first overseas builders, credible channels, content assets, backlinks, and community signals.
 
 [中文版本](README.zh-CN.md)
 
-This repository uses SandBase.ai as the real case study.
+Most AI startups do not fail because nobody can build the demo.
 
-SandBase.ai is an agent infrastructure platform for developers building production AI agents. The playbook documents how an early AI infrastructure startup builds its first layer of public trust: SEO, blog infrastructure, social accounts, community setup, GitHub trust assets, technical content, backlinks, and daily distribution.
+They fail because almost nobody outside the team can discover it, understand it, trust it, or remember it.
+
+This repository documents the cold-start growth work behind SandBase.ai, an agent infrastructure startup for developers building production AI agents.
 
 Cold start means starting with almost no audience, no search footprint, no trusted backlinks, and no developer community. The goal is not to go viral overnight. The goal is to build enough public proof that overseas AI builders can discover, understand, and trust the product.
 
-In 30 days, we are turning one real AI infrastructure startup into a public growth case study:
+In 30 days, we are turning one real AI infrastructure startup into a public growth case study.
+
+What we are building:
 
 - make Google understand the product
 - make developers trust the product
@@ -18,6 +22,16 @@ In 30 days, we are turning one real AI infrastructure startup into a public grow
 - publish technical content that compounds
 - create external mentions without spam
 - turn daily operations into a repeatable playbook
+
+What you can copy:
+
+- daily growth checklists
+- SEO and content structure
+- developer community setup
+- GitHub trust asset examples
+- directory and backlink decisions
+- Dev.to, X, LinkedIn, and Discord distribution notes
+- overseas builder outreach and hackathon sponsorship playbooks
 
 ![Week 1 trust foundation](assets/generated-images/week01-foundation.png)
 
@@ -28,6 +42,14 @@ If you are new here, start with:
 - [Week 2 plan — Distribution and daily operations](30-day-growth-diary/weekly-recaps/week02-distribution-plan.md)
 - [Day 1 — Before content, make sure Google can see the site](30-day-growth-diary/days/day01-seo-audit.md)
 - [Image prompts for social cards](assets/image-prompts/README.md)
+
+## Who This Is For
+
+- AI founders doing overseas growth from zero
+- indie hackers building AI agents, AI infra, or devtools
+- technical founders who want credible growth without spam
+- builders using Codex or AI agents as an operating partner
+- anyone trying to turn a real product into public trust
 
 ## What This Is
 
@@ -148,22 +170,20 @@ If you are using Codex for operations, pay attention to the confirmation boundar
 ## Share This
 
 ```text
-We are documenting how SandBase.ai builds the first trust layer for an AI infrastructure product:
+Global AI Cold Start:
 
-SEO, blog, GitHub, X, Discord, LinkedIn, developer directories, and the daily operating decisions behind it.
+30 days to win overseas AI builders.
 
-The goal is not growth hacks.
-The goal is to make a real technical product easier to trust.
+We are documenting how SandBase.ai builds the first growth layer for an AI infrastructure startup:
+
+SEO, technical content, GitHub, X, LinkedIn, Discord, Dev.to, developer directories, backlinks, and daily lessons from building in public.
 ```
 
 Short version:
 
 ```text
-Global AI Cold Start:
-
-30 days of building the growth foundation for an AI startup:
-
-SEO, content, GitHub, X, LinkedIn, Discord, Dev.to, developer directories, backlinks, and daily lessons from building in public.
+Global AI Cold Start is a public growth playbook for AI founders:
+from zero audience to the first overseas builders, channels, content assets, backlinks, and community signals.
 ```
 
 ## What We Track Each Day
