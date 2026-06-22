@@ -75,7 +75,7 @@ This is an early sign that the external profile strategy is working.
 - Directory/profile follow-up:
   - DevHunt was checked again. The submit path exists at `https://devhunt.org/login`, with GitHub and Google login options.
   - DevHunt Google login was completed by the user.
-  - DevHunt auto-created a profile with personal fields, so those visible profile fields were changed to SandBase company information:
+  - DevHunt auto-created a profile, so the visible fields were changed to SandBase company information:
     - full name: `SandBase AI`
     - username: `sandbaseai`
     - social URL: `https://www.linkedin.com/company/sandbaseai/`
@@ -115,14 +115,9 @@ This is an early sign that the external profile strategy is working.
     - proof points: sandboxed runtime, safe tool access, model routing, distributed compute.
   - The post appeared in the LinkedIn company page published list.
 - LinkedIn operational-account privacy cleanup:
-  - The operating account is used for administration, but public activity should not expose the person behind the company work.
-  - Privacy settings were tightened after publishing:
-    - profile viewing mode: private mode
-    - page visit visibility: off
-    - connection visibility: off
-    - follow visibility: only visible to the account owner
-    - organization / interests representation on content: off
-  - Principle: company channels can be public; the operational account should stay quiet and non-promotional.
+  - The operating account is used for administration, but public activity should represent the company, not a private individual.
+  - Privacy settings were reviewed and tightened where appropriate.
+  - Principle: company channels can be public; operational account details should stay private and non-promotional.
 
 ## Links Created Or Updated
 

@@ -70,7 +70,7 @@ The agent runtime is where those two worlds meet.
   - 清理了输入框里旧的草稿，避免误发。
   - 今日决策：没有真实产品更新或社区问题时，不强行发 Discord 动态。
 - Peerlist 检查：
-  - 在通知里发现 Lil.Jr2.0 关于 permission boundaries、memory lifecycle、scoped agent capabilities 的真实回复。
+  - 在通知里发现一位 builder 关于 permission boundaries、memory lifecycle、scoped agent capabilities 的真实回复。
   - 回复了一条产品相关的观点：
 
 ```text
@@ -204,7 +204,7 @@ That would be a strong demo. Showing when memory is created, scoped, updated, or
     - Premium：$39，超过当前预算
     - 决策：暂时跳过；渠道质量混杂，也不够开发者 / infra 垂直，不值得今天做小额付费实验
   - BetaList：
-    - 已创建提交草稿：`https://betalist.com/submissions/172251`
+    - 已创建私有提交草稿
     - 已重写文案，避免过度承诺，保持 agent infrastructure 定位
     - topics 调整到 `Infrastructure`、`API Integration`、`Observability`
     - 已走到 package 页面
@@ -227,19 +227,18 @@ That would be a strong demo. Showing when memory is created, scoped, updated, or
 
 - X 观点动态：https://x.com/SandbaseAI/status/2068866907579847023
 - Peerlist 讨论回复：https://peerlist.io/scroll/post/ACTHKKD9EGGK77GDN1LQ6KJNBPMPRB
-- Uneed 草稿编辑页：https://www.uneed.best/edit/waiting-line/37893?new=true
 - Uneed 公开 launch 页：https://www.uneed.best/tool/sandbase
 - GitHub 组织主页：https://github.com/sandbaseai
 - GitHub 组织 README 仓库：https://github.com/sandbaseai/.github
 - DEV Community profile：https://dev.to/sandbaseai
 - DEV Community published article：https://dev.to/sandbaseai/production-ai-agents-need-a-runtime-layer-2o2a
 - X distribution post：https://x.com/SandbaseAI/status/2068948735107994092
-- Discord channel used for distribution：https://discord.com/channels/1516741633310199818/1516742589913632891
+- Discord distribution：已发布到公开 `#agent-runtime` 社区频道
 - 候选：BetaList 提交页：https://betalist.com/submit
 - 候选：Indie Hackers 产品页：https://www.indiehackers.com/products/new
 - 候选：Fazier launch 页：https://fazier.com/launch
 - Indie Hackers profile 已创建：https://www.indiehackers.com/sandbaseai
-- BetaList 草稿：https://betalist.com/submissions/172251
+- BetaList 私有草稿已准备
 - GitHub 候选搜索：https://github.com/search?q=AI+agent+sandbox&type=repositories&s=updated&o=desc
 - 候选项目：https://github.com/jeremylongshore/agent-governance-plane
 - 候选项目：https://github.com/runseal-labs/runseal

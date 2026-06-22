@@ -47,7 +47,7 @@ Convert learning into content or product work
   - Published a company update connected to the Uneed launch preparation.
   - Kept the content product-facing rather than process-facing.
   - Added a generated visual so the post has a stronger first impression in the feed.
-  - Used company identity only; the operating account was not intentionally exposed in the public message.
+  - Used company identity only; no personal account details were included in the public message.
 - X:
   - Three high-signal replies were completed.
   - The focus stayed around agents, distributed compute, and production infrastructure.

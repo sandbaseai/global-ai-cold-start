@@ -70,7 +70,7 @@ The agent runtime is where those two worlds meet.
   - Removed an old draft from the input box to avoid accidental posting.
   - Decision: no forced Discord update today unless there is a real product or community prompt.
 - Peerlist check:
-  - Checked notifications and found a real reply from Lil.Jr2.0 around permission boundaries, memory lifecycle, and scoped agent capabilities.
+  - Checked notifications and found a real reply from a builder around permission boundaries, memory lifecycle, and scoped agent capabilities.
   - Replied with a product-relevant comment:
 
 ```text
@@ -205,7 +205,7 @@ That would be a strong demo. Showing when memory is created, scoped, updated, or
     - Premium: $39, above the current budget
     - decision: skip for now; the channel is mixed quality and not developer-infrastructure specific enough to justify even a small paid experiment today
   - BetaList:
-    - submission draft created: `https://betalist.com/submissions/172251`
+    - private submission draft created
     - copy rewritten to avoid overclaims and keep the agent infrastructure positioning clear
     - topics adjusted toward `Infrastructure`, `API Integration`, and `Observability`
     - package page reached
@@ -228,19 +228,18 @@ That would be a strong demo. Showing when memory is created, scoped, updated, or
 
 - X opinion post: https://x.com/SandbaseAI/status/2068866907579847023
 - Peerlist discussion reply: https://peerlist.io/scroll/post/ACTHKKD9EGGK77GDN1LQ6KJNBPMPRB
-- Uneed draft editor: https://www.uneed.best/edit/waiting-line/37893?new=true
 - Uneed public launch page: https://www.uneed.best/tool/sandbase
 - GitHub organization profile: https://github.com/sandbaseai
 - GitHub organization README repository: https://github.com/sandbaseai/.github
 - DEV Community profile: https://dev.to/sandbaseai
 - DEV Community published article: https://dev.to/sandbaseai/production-ai-agents-need-a-runtime-layer-2o2a
 - X distribution post: https://x.com/SandbaseAI/status/2068948735107994092
-- Discord channel used for distribution: https://discord.com/channels/1516741633310199818/1516742589913632891
+- Discord distribution: posted in the public `#agent-runtime` community channel
 - Candidate: BetaList submit page: https://betalist.com/submit
 - Candidate: Indie Hackers product page: https://www.indiehackers.com/products/new
 - Candidate: Fazier launch page: https://fazier.com/launch
 - Indie Hackers profile created: https://www.indiehackers.com/sandbaseai
-- BetaList draft: https://betalist.com/submissions/172251
+- BetaList draft prepared privately
 - GitHub candidate search: https://github.com/search?q=AI+agent+sandbox&type=repositories&s=updated&o=desc
 - Candidate: https://github.com/jeremylongshore/agent-governance-plane
 - Candidate: https://github.com/runseal-labs/runseal

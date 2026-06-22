@@ -105,9 +105,9 @@ That detail matters. The public surface should say "SandBaseAI," while LinkedIn'
 
 There was an important admin question:
 
-Should a separate operating LinkedIn account be added as a page admin?
+Should another account be added as a page admin?
 
-The operating account followed the page, but LinkedIn search returned several ambiguous same-name profiles when adding admins.
+The admin search result was ambiguous.
 
 Decision:
 

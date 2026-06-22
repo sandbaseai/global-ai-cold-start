@@ -115,14 +115,9 @@ SandBase AI. Agent infrastructure for developers building production AI agents.
     - 能力点：sandboxed runtime、safe tool access、model routing、distributed compute。
   - 该动态已经出现在 LinkedIn 公司页 published 列表里。
 - LinkedIn 运营账号隐私加固：
-  - 运营账号用于后台管理，但不希望公开暴露个人和公司运营之间的关系。
-  - 发布后完成隐私收尾：
-    - 访问别人主页时使用 private mode
-    - page visit visibility 关闭
-    - connection visibility 关闭
-    - follow visibility 设为 only visible to me
-    - organization / interests representation on content 关闭
-  - 原则：公司渠道可以公开；运营账号保持低可见、少痕迹、不做个人背书。
+  - 运营账号用于后台管理，但公开活动应该代表公司，而不是私人个体。
+  - 发布后复查并收紧了必要的隐私设置。
+  - 原则：公司渠道可以公开；运营账号细节保持私密、低可见、不做个人背书。
 
 ## 创建或更新的链接
 
