@@ -105,6 +105,11 @@ Status:
 - not currently a git repository
 - local draft is present
 - includes README, publishing notes, compatibility checklist, JSON cases, and runtime notes
+- publishing notes now include Apache-2.0 license recommendation, standalone repo setup, and local publish commands guarded by human confirmation
+- local validation passed:
+  - JSON case file parses
+  - 6 Markdown files checked
+  - no broken local links
 
 Files:
 
@@ -126,6 +131,7 @@ Recommended action:
 - do not publish today
 - later decide whether to create a GitHub repo
 - if published, position as a neutral compatibility checklist, not a SandBase product claim
+- add `LICENSE` only after confirming standalone publication
 
 ### `agent-sandbox-cookbook`
 
