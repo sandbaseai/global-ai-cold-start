@@ -78,6 +78,94 @@ Use these 16:9 PNG posters for X, LinkedIn, Discord, Dev.to headers, newsletters
 
 ## Copy Blocks
 
+## 2026-06-27 Execution Pack
+
+Today's angle:
+
+```text
+AI agents do not only need better demos. They need a production runtime layer: sandboxes, browser automation, MCP/tool surfaces, memory, observability, model gateways, and deployment.
+```
+
+Primary links:
+
+- Awesome Agent Runtime: https://github.com/sandbaseai/awesome-agent-runtime
+- Global AI Cold Start: https://github.com/sandbaseai/global-ai-cold-start
+
+Primary posters:
+
+- X and LinkedIn: `../assets/generated-images/promo-sandbase-open-source-assets.png`
+- Maintainer outreach: `../assets/generated-images/promo-awesome-maintainers-welcome.png`
+- GitHub/README references: `../assets/generated-images/promo-awesome-agent-runtime-map.png`
+
+### X Post
+
+```text
+AI agents do not only need better demos.
+
+They need a production runtime layer:
+
+- runtimes and orchestration
+- execution sandboxes
+- browser automation
+- MCP/tool protocols
+- memory and context
+- safety/evals
+- observability
+- model gateways
+- deployment
+
+We mapped 500 projects across that stack:
+https://github.com/sandbaseai/awesome-agent-runtime
+
+We are also documenting the 30-day public growth work behind SandBase:
+https://github.com/sandbaseai/global-ai-cold-start
+```
+
+### LinkedIn Post
+
+```text
+Production AI agents are starting to look less like isolated demos and more like a real infrastructure stack.
+
+The stack now includes runtime orchestration, execution sandboxes, browser automation, MCP/tool protocols, app integrations, memory/context, safety and evals, observability, model gateways, and deployment.
+
+We published two public SandBase assets:
+
+1. Awesome Agent Runtime
+A curated map of 500 projects across the production AI agent infrastructure landscape.
+https://github.com/sandbaseai/awesome-agent-runtime
+
+2. Global AI Cold Start
+A public 30-day case study on building a searchable trust surface for an early AI infrastructure startup.
+https://github.com/sandbaseai/global-ai-cold-start
+
+Corrections, missing projects, and maintainer suggestions are welcome.
+```
+
+### Discord / Community Post
+
+```text
+We just published two public SandBase resources for agent builders:
+
+- Awesome Agent Runtime: 500 projects across runtimes, sandboxes, browser automation, MCP/tool protocols, memory, observability, model gateways, and deployment.
+  https://github.com/sandbaseai/awesome-agent-runtime
+
+- Global AI Cold Start: a 30-day public case study on building visibility and trust for an early AI infrastructure product.
+  https://github.com/sandbaseai/global-ai-cold-start
+
+If you maintain an agent infrastructure project and the description/category is off, please open an issue or PR. We want the map to stay useful and neutral.
+```
+
+### GitHub Maintainer Comment
+
+Use this only when the repo is already included in Awesome Agent Runtime or clearly belongs there:
+
+```text
+Hi! We are maintaining a public map of production AI agent infrastructure projects:
+https://github.com/sandbaseai/awesome-agent-runtime
+
+Your project is relevant to the agent runtime / sandbox / tool-surface ecosystem. If the category or description should be corrected, feel free to open an issue or PR. We are trying to keep the list neutral and useful for builders.
+```
+
 ### Awesome Agent Runtime X Post
 
 ```text
